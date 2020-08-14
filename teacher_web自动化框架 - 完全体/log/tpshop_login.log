@@ -1,0 +1,8 @@
+2020-08-12 16:31:11,830 INFO [root] [test_login.py(test_login:33)] - 登录, 用户名为16600000000, 密码是123456, 验证码是8888
+2020-08-12 16:31:28,972 INFO [root] [test_login.py(test_login:33)] - 登录, 用户名为13412341234, 密码是abcdef, 验证码是8888
+2020-08-12 16:40:20,997 INFO [root] [test_login.py(test_login:33)] - 登录, 用户名为16600000000, 密码是123456, 验证码是8888
+2020-08-12 16:40:38,579 INFO [root] [test_login.py(test_login:33)] - 登录, 用户名为13412341234, 密码是abcdef, 验证码是8888
+2020-08-12 17:11:11,685 INFO [root] [test_login.py(test_login:33)] - 登录, 用户名为16600000000, 密码是123456, 验证码是8888
+2020-08-12 17:11:30,088 INFO [root] [test_login.py(test_login:33)] - 登录, 用户名为13412341234, 密码是abcdef, 验证码是8888
+2020-08-12 17:17:55,163 INFO [root] [test_login.py(test_login:33)] - 登录, 用户名为16600000000, 密码是123456, 验证码是8888
+2020-08-12 17:18:12,372 INFO [root] [test_login.py(test_login:33)] - 登录, 用户名为13412341234, 密码是abcdef, 验证码是8888

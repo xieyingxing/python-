@@ -1,0 +1,4 @@
+{
+  "login_not_username": {"username":"13535101252", "password":"123456", "code":"8888", "msg":"账号不存在!"},
+  "login_password_error":{"username":"13535101255", "password":"1234567", "code":"8888", "msg":"密码错误!"}
+}

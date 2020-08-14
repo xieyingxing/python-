@@ -1,0 +1,14 @@
+{
+  "test_login_accout_not_exist": {
+    "username": "16600000000",
+    "password": "123456",
+    "code": "8888",
+    "msg": "账号不存在!"
+  },
+  "test_login_password_error": {
+    "username": "13412341234",
+    "password": "abcdef",
+    "code": "8888",
+    "msg": "密码错误!"
+  }
+}
